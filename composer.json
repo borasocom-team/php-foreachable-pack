@@ -1,11 +1,13 @@
 {
-    "name": "boraso/php-foreachable",
-    "autoload": {
-        "psr-4": {
-            "Boraso\\Foreachable\\": "TurboLabIt/Foreachable/src"
-        }
-    },
-    "require": {
-        "turbolabit/php-foreachable": "dev-main"
+  "name": "boraso/php-foreachable",
+  "autoload": {
+    "psr-4": {
+      "Boraso\\Foreachable\\": "TurboLabIt/Foreachable/src"
     }
+  },
+  "require": {
+    "turbolabit/php-foreachable": "dev-main"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
