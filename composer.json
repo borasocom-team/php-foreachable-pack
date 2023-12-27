@@ -7,11 +7,5 @@
     },
     "require": {
         "turbolabit/php-foreachable": "dev-main"
-    },
-    "repositories": {
-        "turbolabit/php-foreachable": {
-            "type": "git",
-            "url": "https://github.com/TurboLabIt/php-foreachable.git"
-        }
     }
 }
