@@ -1,5 +1,5 @@
 {
-  "name": "boraso/php-foreachable",
+  "name": "boraso/php-foreachable-pack",
   "autoload": {
     "psr-4": {
       "Boraso\\Foreachable\\": "TurboLabIt/Foreachable/src"
